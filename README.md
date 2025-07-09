@@ -57,7 +57,7 @@ src/
 
 ##  Screenshot
 
-![User Cards Screenshot](https://via.placeholder.com/800x400?text=User+Cards+Grid+Example)
+![User Cards Screenshot](public/Screenshot.png)
 
 ---
 
