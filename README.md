@@ -57,7 +57,7 @@ src/
 
 ##  Screenshot
 
-![User Cards Screenshot](public/Screenshot.png)
+![User Cards Screenshot](user-card-profile\public\Screenshot.png)
 
 ---
 
